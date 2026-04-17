@@ -1,8 +1,8 @@
 # Audit Results
 
 **Totals:** 6 High | 9 Medium
-**Best Rank:** #4  
 **Total Contests:** 11
+**Best Rank:** #4  
 
 ## Profiles
 
