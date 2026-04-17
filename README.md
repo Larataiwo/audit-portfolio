@@ -1,7 +1,24 @@
 # Audit Results
 
-| Platform   | Contest        | Rank | High | Medium | Low | Report | Profile |
-|-----------|---------------|------|------|--------|-----|--------|---------|
-| Code4rena | ProtocolName  | #5   | 1    | 2      | 0   | [Link](#) | [Link](#) |
-| Sherlock  | ProtocolName  | #12  | 0    | 3      | 1   | [Link](#) | [Link](#) |
-| Immunefi  | ProtocolName  | -    | 1    | 0      | 0   | [Link](#) | [Link](#) |
+**Totals:** 6 High | 9 Medium | 
+**Best Rank:** #4  
+**Total Contests:** 11
+
+## Profiles
+
+- Sherlock: https://audits.sherlock.xyz/watson/molaratai
+
+## Selected Audit Results
+
+| Platform  | Contest                   | Rank | High | Medium | Report | Profile |
+|-----------|--------------------------|------|------|--------|--------|---------|
+| Sherlock  | Aegis.im YUSD            | #4   | 1    | 0      |  [Report](https://audits.sherlock.xyz/contests/799) | [Link](https://audits.sherlock.xyz/contests/799/voting/215) |
+| Sherlock  | Superfluid Locker System | #9   | 1    | 0      | [Report](https://audits.sherlock.xyz/contests/968) | [Link](https://audits.sherlock.xyz/contests/968/voting/156) |
+| Sherlock  | USG - Tangent            | #7   | 0    | 2      | [Report](https://audits.sherlock.xyz/contests/1073) | [Link](https://audits.sherlock.xyz/contests/1073/voting/697) |
+
+
+*Showing selected contests. Full history available on profile.*
+
+## Private Audits
+
+- Participated in multiple private audits (details under NDA)
